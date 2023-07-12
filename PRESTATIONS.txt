@@ -1,0 +1,3 @@
+prestation1 Petit_Dejeune 100000.000000
+prestation2 Dejeune 200000.000000
+prestation3 Dine 300000.000000
